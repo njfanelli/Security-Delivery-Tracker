@@ -1,6 +1,18 @@
 # Security Delivery Tracker
 <p><span style="font-size: 24px;"><strong>Purpose</strong></span></p>
 <p>This tool was developed for Security Leaders, Managers and/or Practitioners to address the ongoing challenge in tracking and reporting key security metrics within their organization. &nbsp;</p>
+<p style="margin-left: 20px;">Some of these metrics include:</p>
+<ul style="list-style-type: circle;">
+  <li style="margin-left: 20px;">Product Coverage</li>
+  <li style="margin-left: 20px;">Maturity</li>
+  <li style="margin-left: 20px;">Return on Investment</li>
+  <li style="margin-left: 20px;">Administrative Overhead</li>
+  <li style="margin-left: 20px;">License Usage</li>
+  <li style="margin-left: 20px;">Regulatory Drivers</li>
+  <li style="margin-left: 20px;">Trending Patterns</li>
+  <li style="margin-left: 20px;">Monitor Failures</li>
+  <li style="margin-left: 20px;">Identify Wasteful Areas</li>
+</ul>
 <hr>
 <p><span style="font-size: 24px;"><strong>Requirements</strong></span></p>
 <ul style="list-style-type: square;">
@@ -74,7 +86,18 @@
 </ol>
 <hr>
 <p><span style="font-size: 24px;"><strong>Reporting</strong></span></p>
-<p style="margin-left: 20px;">COMING SOON!!</p>
+<p style="margin-left: 20px;">Provided below are several screenshots of the dashboard metrics:</p>
+<p style="margin-left: 20px;">&nbsp;Solution Summary Example</p>
+<p style="padding-left: 40px;"><span style="font-size: 11pt;">
+    <img src="https://github.com/njfanelli/Security-Delivery-Tracker/blob/master/SAMPLE%20-%20Solution%20Summary.png" alt="Summary" width="800" height="600">
+  </span></p>
+<p style="margin-left: 20px;">&nbsp;Solution Breakdown Example</p>
+<p style="padding-left: 40px;"><span style="font-size: 11pt;">
+    <img src="https://github.com/njfanelli/Security-Delivery-Tracker/blob/master/SAMPLE%20-%20Solution%20Breakdown.png" alt="Breakdown" width="800" height="600">
+  </span></p>
+<p style="margin-left: 20px;">
+  <br>
+</p>
 <hr>
 <p><span style="color: rgb(44, 130, 201);"><span style="color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: 24px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;"><strong>Frequently Asked Questions</strong></span><span style="font-size: 24px;"><strong>&nbsp;</strong></span></span></p>
 <p style="margin-left: 20px;"><strong><span style="color: rgb(44, 130, 201);">QUESTION</span>:</strong>&nbsp; How do I change the default path of the tool from “C:\SDT” to something else?</p>
